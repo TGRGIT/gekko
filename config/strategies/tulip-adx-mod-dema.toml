@@ -1,0 +1,12 @@
+historySize = 80
+optInTimePeriod = 15
+candleSize = 10
+short = 10
+long = 21
+
+
+[thresholds]
+adxUp = 30
+adxDown = 40
+demadown = -0.025
+demaUp = 0.025
