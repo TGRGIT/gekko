@@ -1,3 +1,7 @@
+// Dema & adx combo, where any double signal is treated as a trade signal,
+// and any adx short signal is treated as a short.
+
+
 // helpers
 var _ = require('lodash');
 var log = require('../core/log.js');
